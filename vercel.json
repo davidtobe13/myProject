@@ -1,5 +1,5 @@
 {
-    "name": "myproject",
+    "name": "my-project",
     "builds": [
         {
             "src": "server.js",
